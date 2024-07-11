@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tommytesta
 - 👀 I’m interested in Software Developing and Engineering
-- 🌱 I’m currently learning C#
+- 🌱 I’m currently developing in C#
 
 <!---
 tommytesta/tommytesta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
